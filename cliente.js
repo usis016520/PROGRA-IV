@@ -115,7 +115,7 @@ Vue.component('cliente',{
                         <div class="row p-1">
                             <div class="col col-md-2">Zona:</div>
                             <div class="col col-md-2">
-                                <input title="Ingrese su Zona" v-model="cliente.dui" required type="text" class="form-control">
+                                <input title="Ingrese su Zona" v-model="cliente.dui"  class="form-control">
                             </div>
                         </div>
                         <div class="row p-1">
